@@ -1,3 +1,8 @@
+## Original App
+
+[MusicPlayer Sandbox](https://codesandbox.io/s/github/tranc99/react-music/tree/master/)
+[Original Github repo](https://github.com/newline-sandbox/react-music)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
